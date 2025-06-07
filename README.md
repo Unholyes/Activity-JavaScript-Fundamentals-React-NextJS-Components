@@ -81,7 +81,8 @@ A simple counter component with increment/decrement functionality.
 - Buttons to increment and decrement the count
 - Visual display of current count
 
-**Usage:```jsx
+**Usage:**
+```jsx
 <Counter />
 ```
 
