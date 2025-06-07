@@ -32,7 +32,7 @@ Demonstrates core JavaScript concepts through interactive examples:
    - Callback functions
 
 ### How to Run:
-1. Open `parta  javascript fundamentals/ybanez.html` in a browser
+1. Open `part-a-javascript fundamentals/ybanez.html` in a browser
 2. Interact with the page to see JavaScript in action
 
 ## Part B: Next.js Components
